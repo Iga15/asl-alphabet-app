@@ -1,0 +1,4 @@
+paths:
+  data_dir: "data"
+  weights_dir: "models"
+  runs_dir: "runs"

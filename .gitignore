@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data and model files
+data/
+models/*.h5
+*.csv
+
+# PyQt + OpenCV temp files
+*.ini
+*.tmp
+
+# System and IDE
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# macOS
+.DS_Store
